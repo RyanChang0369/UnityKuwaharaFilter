@@ -15,3 +15,8 @@ Amir Semmo, Henry Kang, Jürgen Döllner.
 
 The model of [Dingus the Cat](https://skfb.ly/oAtMJ) by bean(alwayshasbean)
 is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
+This model no longer exists in the current version of the project, but is available on older versions.
+
+This project was made with Unity®. Unity is a trademark or registered trademark of Unity Technologies
+
+Copyright © 2005-2025 Unity Technologies. All rights reserved.
