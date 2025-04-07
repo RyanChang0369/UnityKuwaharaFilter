@@ -9,19 +9,32 @@ artistic effect.
 
 ## Credits
 
+### *This is the Kuwahara Filter*
+
 This project is heavily inspired by the YouTube video
-["This is the Kuwahara Filter"](https://www.youtube.com/watch?v=LDhN-JK3U9g&t=715s&pp=ygUPa3V3YWhhcmEgZmlsdGVy)
+["This is the Kuwahara Filter"](https://youtu.be/LDhN-JK3U9g?si=nhlqjrNwqO8pPd5x)
 by Acerola.
+
+### *Anisotropic Kuwahara Filtering with Polynomial Weighting Functions*
 
 Code for the generalized Kuwahara filter is based on the white paper
 "Anisotropic Kuwahara Filtering with Polynomial Weighting Functions" by Jan Eric
 Kyprianidis, Amir Semmo, Henry Kang, Jürgen Döllner. A copy of this white paper
 has been included in this project at <Research/kang-tpcg2010.pdf>.
 
-The model of [Dingus the Cat](https://skfb.ly/oAtMJ) by bean(alwayshasbean)
-is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
-This model no longer exists in the current version of the project, but is available on older versions.
+### Noto Sans Font
 
-This project was made with Unity®. Unity is a trademark or registered trademark of Unity Technologies
+Copyright 2022 The Noto Project Authors
+(<https://github.com/notofonts/latin-greek-cyrillic>)
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1. A
+copy of this license has been included in this project at
+<Assets/UI/Fonts/OFL.txt>, and is also available with a FAQ at:
+<https://scripts.sil.org/OFL>
+
+### Unity® Game Engine
+
+This project was made with Unity®. Unity is a trademark or registered trademark
+of Unity Technologies
 
 Copyright © 2005-2025 Unity Technologies. All rights reserved.
