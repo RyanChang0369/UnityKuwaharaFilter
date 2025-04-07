@@ -20,7 +20,8 @@ by Acerola.
 Code for the generalized Kuwahara filter is based on the white paper
 "Anisotropic Kuwahara Filtering with Polynomial Weighting Functions" by Jan Eric
 Kyprianidis, Amir Semmo, Henry Kang, Jürgen Döllner. A copy of this white paper
-has been included in this project at [Research/kang-tpcg2010.pdf].
+has been included in this project at
+[Research/kang-tpcg2010.pdf](Research/kang-tpcg2010.pdf).
 
 ### Noto Sans Font
 
@@ -29,8 +30,8 @@ Copyright 2022 The Noto Project Authors
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. A
 copy of this license has been included in this project at
-<Assets/UI/Fonts/OFL.txt>, and is also available with a FAQ at:
-<https://scripts.sil.org/OFL>
+[Assets/UI/Fonts/OFL.txt](Assets/UI/Fonts/OFL.txt), and is also available with a
+FAQ at: <https://scripts.sil.org/OFL>
 
 ### Unity® Game Engine
 
