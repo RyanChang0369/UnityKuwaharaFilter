@@ -33,6 +33,23 @@ copy of this license has been included in this project at
 [Assets/UI/Fonts/OFL.txt](Assets/UI/Fonts/OFL.txt), and is also available with a
 FAQ at: <https://scripts.sil.org/OFL>
 
+### NaughtyAttributes Editor Extension
+
+Copyright (c) 2017 Denis Rizov (<https://github.com/dbrizov/NaughtyAttributes/>)
+
+Licensed under the MIT license. A copy of this license has been included in this
+project at [Assets/Scripts/Imports/NaughtyAttributes-2.1.4/LICENSE](
+Assets/Scripts/Imports/NaughtyAttributes-2.1.4/LICENSE).
+
+### TextMeshPro
+
+TextMesh Pro copyright © 2022 Unity Technologies ApS
+(<https://github.com/needle-mirror/com.unity.textmeshpro>)
+
+Licensed under the Unity Companion License for Unity-dependent projects--see
+[Unity Companion License](
+http://www.unity3d.com/legal/licenses/Unity_Companion_License).
+
 ### Unity® Game Engine
 
 This project was made with Unity®. Unity is a trademark or registered trademark
