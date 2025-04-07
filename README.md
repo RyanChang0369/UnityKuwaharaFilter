@@ -1,7 +1,7 @@
 # Kuwahara Filter
 
-Implementation of the Kuwahara filter in Unity, for the built-in renderer.
-Includes a basic Kuwahara filter and a generalized Kuwahara filter.
+Implementation and demonstration of the Kuwahara filter in Unity, for the
+built-in renderer.
 
 The Kuwahara filter was originally developed to denoise medical images, but due
 to the paint brush-like artifacts it creates, it is now primarily used for
