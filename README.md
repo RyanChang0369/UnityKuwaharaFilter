@@ -11,9 +11,9 @@ artistic effect.
 
 ### *This is the Kuwahara Filter*
 
-This project is heavily inspired by the YouTube video
-["This is the Kuwahara Filter"](https://youtu.be/LDhN-JK3U9g?si=nhlqjrNwqO8pPd5x)
-by Acerola.
+This project is heavily inspired by the YouTube video [*This is the Kuwahara
+Filter*](https://youtu.be/LDhN-JK3U9g?si=nhlqjrNwqO8pPd5x) by
+[Acerola](https://www.youtube.com/@Acerola_t).
 
 ### *Anisotropic Kuwahara Filtering with Polynomial Weighting Functions*
 
